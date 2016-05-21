@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\bin\Debug\15.3.3 Graphics Assignment.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\bin\Debug\15.3.3 Graphics Assignment.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\bin\Debug\15.3.3 Graphics Assignment.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\_15._3._3_Graphics_Assignment.frmGraphics.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\_15._3._3_Graphics_Assignment.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.3.3 Graphics Assignment\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.3.3 Graphics Assignment\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.3.3 Graphics Assignment\15.3.3 Graphics Assignment\obj\x86\Debug\15.3.3 Graphics Assignment.pdb

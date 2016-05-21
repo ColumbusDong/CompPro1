@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module_12_Fatuitious_Dice.frmFatuitiousDice.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module_12_Fatuitious_Dice.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.exe
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.xml
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.exe
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\bin\Debug\Module 12 Fatuitious Dice.xml
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module_12_Fatuitious_Dice.frmFatuitiousDice.resources
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module_12_Fatuitious_Dice.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\Module 12 Fatuitious Dice\Module 12 Fatuitious Dice\obj\x86\Debug\Module 12 Fatuitious Dice.vbproj.GenerateResource.Cache

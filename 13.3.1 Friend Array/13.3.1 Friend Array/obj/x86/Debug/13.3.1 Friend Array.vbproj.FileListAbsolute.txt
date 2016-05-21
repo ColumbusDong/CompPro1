@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\bin\Debug\13.3.1 Friend Array.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\bin\Debug\13.3.1 Friend Array.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\bin\Debug\13.3.1 Friend Array.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\_13._3._1_Friend_Array.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\_13._3._1_Friend_Array.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.1 Friend Array\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.exe
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.1 Friend Array\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.xml
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.1 Friend Array\13.3.1 Friend Array\obj\x86\Debug\13.3.1 Friend Array.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8.3.3 Beauty School Dropout", "8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout.vbproj", "{8522E68C-0862-4A4C-A4FD-3627F060E9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8522E68C-0862-4A4C-A4FD-3627F060E9EF}.Debug|x86.ActiveCfg = Debug|x86
+		{8522E68C-0862-4A4C-A4FD-3627F060E9EF}.Debug|x86.Build.0 = Debug|x86
+		{8522E68C-0862-4A4C-A4FD-3627F060E9EF}.Release|x86.ActiveCfg = Release|x86
+		{8522E68C-0862-4A4C-A4FD-3627F060E9EF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

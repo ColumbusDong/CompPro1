@@ -1,0 +1,9 @@
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\bin\Debug\15.1.1 Colors.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\bin\Debug\15.1.1 Colors.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\bin\Debug\15.1.1 Colors.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\_15._1._1_Colors.frmColors.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\_15._1._1_Colors.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\15.1.1 Colors.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\15.1.1 Colors.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\15.1.1 Colors.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.1 Colors\obj\x86\Debug\15.1.1 Colors.pdb

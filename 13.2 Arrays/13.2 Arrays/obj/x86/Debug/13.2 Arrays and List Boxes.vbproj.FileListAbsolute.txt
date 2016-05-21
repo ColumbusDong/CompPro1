@@ -1,0 +1,9 @@
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\bin\Debug\13.2 Arrays and List Boxes.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\bin\Debug\13.2 Arrays and List Boxes.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\bin\Debug\13.2 Arrays and List Boxes.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\_13._2_Arrays_and_List_Boxes.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\_13._2_Arrays_and_List_Boxes.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\13.2 Arrays and List Boxes.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\13.2 Arrays and List Boxes.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\13.2 Arrays and List Boxes.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.2 Arrays and List Boxes\obj\x86\Debug\13.2 Arrays and List Boxes.pdb

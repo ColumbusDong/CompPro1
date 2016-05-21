@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\_12._2._8_Parameter_Tutorial.frmParameters.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\_12._2._8_Parameter_Tutorial.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\bin\Debug\12.2.8 Parameter Tutorial.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\_12._2._8_Parameter_Tutorial.frmParameters.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\_12._2._8_Parameter_Tutorial.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.8 Parameter Tutorial\12.2.8 Parameter Tutorial\obj\x86\Debug\12.2.8 Parameter Tutorial.vbproj.GenerateResource.Cache

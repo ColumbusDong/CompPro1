@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\_8._3._3_Beauty_School_Dropout.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\_8._3._3_Beauty_School_Dropout.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.exe
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.xml
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.exe
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\bin\Debug\8.3.3 Beauty School Dropout.xml
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\_8._3._3_Beauty_School_Dropout.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\_8._3._3_Beauty_School_Dropout.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.3 Beauty School Dropout\8.3.3 Beauty School Dropout\obj\x86\Debug\8.3.3 Beauty School Dropout.vbproj.GenerateResource.Cache

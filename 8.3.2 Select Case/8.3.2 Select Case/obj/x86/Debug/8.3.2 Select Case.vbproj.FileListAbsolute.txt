@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\_8._3._2_Select_Case.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\_8._3._2_Select_Case.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.exe
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.xml
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.exe
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\bin\Debug\8.3.2 Select Case.xml
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\_8._3._2_Select_Case.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\_8._3._2_Select_Case.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\8.3.2 Select Case\8.3.2 Select Case\obj\x86\Debug\8.3.2 Select Case.vbproj.GenerateResource.Cache

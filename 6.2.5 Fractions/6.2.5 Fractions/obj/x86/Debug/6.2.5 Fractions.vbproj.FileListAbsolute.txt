@@ -1,0 +1,22 @@
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.exe
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.xml
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\_6._2._5_Fractions.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\_6._2._5_Fractions.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.exe
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.xml
+C:\Users\owner\AppData\Local\Temporary Projects\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.exe
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.xml
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\6.2.5 Fractions.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.exe
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\bin\Debug\6.2.5 Fractions.xml
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\_6._2._5_Fractions.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\_6._2._5_Fractions.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\6.2.5 Fractions\6.2.5 Fractions\obj\x86\Debug\GenerateResource.write.1.tlog

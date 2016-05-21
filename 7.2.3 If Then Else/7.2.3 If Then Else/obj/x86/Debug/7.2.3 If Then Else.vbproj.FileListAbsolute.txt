@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\_7._2._3_If_Then_Else.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\_7._2._3_If_Then_Else.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.exe
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.xml
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.exe
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\bin\Debug\7.2.3 If Then Else.xml
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\_7._2._3_If_Then_Else.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\_7._2._3_If_Then_Else.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.3 If Then Else\7.2.3 If Then Else\obj\x86\Debug\7.2.3 If Then Else.vbproj.GenerateResource.Cache

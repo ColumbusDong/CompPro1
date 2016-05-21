@@ -1,0 +1,11 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\bin\Debug\Pizza Order.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\Pizza_Order.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\Pizza_Order.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\Pizza Order.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\Pizza Order.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Pizza Order\obj\x86\Debug\Pizza Order.pdb

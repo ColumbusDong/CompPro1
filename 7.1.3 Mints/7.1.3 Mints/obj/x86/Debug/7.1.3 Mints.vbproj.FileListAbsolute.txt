@@ -1,0 +1,14 @@
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\bin\Debug\7.1.3 Mints.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\bin\Debug\7.1.3 Mints.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\bin\Debug\7.1.3 Mints.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\_7._1._3_Mints.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\_7._1._3_Mints.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.1.3 Mints\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.exe
+C:\Users\owner\Documents\Columbus Visual Basic\7.1.3 Mints\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.xml
+C:\Users\owner\Documents\Columbus Visual Basic\7.1.3 Mints\7.1.3 Mints\obj\x86\Debug\7.1.3 Mints.pdb

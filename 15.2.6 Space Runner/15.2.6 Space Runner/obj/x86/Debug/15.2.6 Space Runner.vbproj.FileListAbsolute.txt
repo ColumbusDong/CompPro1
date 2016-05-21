@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\_15._2._6_Space_Runner.frmSpaceRunner.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\_15._2._6_Space_Runner.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\bin\Debug\15.2.6 Space Runner.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\_15._2._6_Space_Runner.frmSpaceRunner.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\_15._2._6_Space_Runner.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.6 Space Runner\15.2.6 Space Runner\obj\x86\Debug\15.2.6 Space Runner.vbproj.GenerateResource.Cache

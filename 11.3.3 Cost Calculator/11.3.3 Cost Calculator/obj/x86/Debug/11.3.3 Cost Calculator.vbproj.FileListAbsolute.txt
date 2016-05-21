@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\_11._3._3_Cost_Calculator.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\_11._3._3_Cost_Calculator.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\bin\Debug\11.3.3 Cost Calculator.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\_11._3._3_Cost_Calculator.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\_11._3._3_Cost_Calculator.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.3 Cost Calculator\11.3.3 Cost Calculator\obj\x86\Debug\11.3.3 Cost Calculator.vbproj.GenerateResource.Cache

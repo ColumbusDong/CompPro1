@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\bin\Debug\14.1.4 Math Fun.exe
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\bin\Debug\14.1.4 Math Fun.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\bin\Debug\14.1.4 Math Fun.xml
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\_14._1._4_Math_Fun.frmMath.resources
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\_14._1._4_Math_Fun.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.exe
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.xml
+C:\Users\owner\AppData\Local\Temporary Projects\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\14.1.4 Math Fun\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.exe
+C:\Users\owner\Documents\Columbus Visual Basic\14.1.4 Math Fun\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.xml
+C:\Users\owner\Documents\Columbus Visual Basic\14.1.4 Math Fun\14.1.4 Math Fun\obj\x86\Debug\14.1.4 Math Fun.pdb

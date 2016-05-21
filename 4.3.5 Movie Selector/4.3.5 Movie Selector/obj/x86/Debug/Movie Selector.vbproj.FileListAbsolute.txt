@@ -1,0 +1,11 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\bin\Debug\Movie Selector.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\bin\Debug\Movie Selector.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\bin\Debug\Movie Selector.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\Movie_Selector.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\Movie_Selector.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\Movie Selector.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\Movie Selector.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Movie Selector\obj\x86\Debug\Movie Selector.pdb

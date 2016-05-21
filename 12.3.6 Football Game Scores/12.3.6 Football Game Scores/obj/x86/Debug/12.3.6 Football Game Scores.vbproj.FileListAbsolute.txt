@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\_12._3._6_Football_Game_Scores.frmFootBallScores.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\_12._3._6_Football_Game_Scores.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\bin\Debug\12.3.6 Football Game Scores.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\_12._3._6_Football_Game_Scores.frmFootBallScores.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\_12._3._6_Football_Game_Scores.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.3.6 Football Game Scores\12.3.6 Football Game Scores\obj\x86\Debug\12.3.6 Football Game Scores.vbproj.GenerateResource.Cache

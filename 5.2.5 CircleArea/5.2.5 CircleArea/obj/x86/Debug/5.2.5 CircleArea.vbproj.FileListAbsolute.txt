@@ -1,0 +1,11 @@
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\bin\Debug\5.2.5 CircleArea.exe
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\bin\Debug\5.2.5 CircleArea.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\bin\Debug\5.2.5 CircleArea.xml
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\CircleArea.frmCircleArea.resources
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\CircleArea.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\5.2.5 CircleArea.exe
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\5.2.5 CircleArea.xml
+C:\Users\owner\Documents\Columbus Visual Basic\5.2.5 CircleArea\5.2.5 CircleArea\obj\x86\Debug\5.2.5 CircleArea.pdb

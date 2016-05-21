@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\_11._3._4_Shopping_List.frmShoppingList.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\_11._3._4_Shopping_List.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\bin\Debug\11.3.4 Shopping List.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\_11._3._4_Shopping_List.frmShoppingList.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\_11._3._4_Shopping_List.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.3.4 Shopping List\11.3.4 Shopping List\obj\x86\Debug\11.3.4 Shopping List.vbproj.GenerateResource.Cache

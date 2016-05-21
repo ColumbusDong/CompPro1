@@ -1,0 +1,11 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\bin\Debug\Favorite Music.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\bin\Debug\Favorite Music.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\bin\Debug\Favorite Music.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\Favorite_Music.Music.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\Favorite_Music.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\Favorite Music.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\Favorite Music.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Favorite Music\obj\x86\Debug\Favorite Music.pdb

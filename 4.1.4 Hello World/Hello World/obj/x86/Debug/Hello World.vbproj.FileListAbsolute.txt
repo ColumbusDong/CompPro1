@@ -1,0 +1,22 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Hello World\obj\x86\Debug\Hello World.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\Hello World.exe
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\Hello World.xml
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\Hello World.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\bin\Debug\Hello World.xml
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\Hello World\Hello World\obj\x86\Debug\GenerateResource.write.1.tlog

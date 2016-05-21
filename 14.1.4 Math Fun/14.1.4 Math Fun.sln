@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "14.1.4 Math Fun", "14.1.4 Math Fun\14.1.4 Math Fun.vbproj", "{1AAC5EEC-8A66-418F-B6DB-C7E2EDF14782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAC5EEC-8A66-418F-B6DB-C7E2EDF14782}.Debug|x86.ActiveCfg = Debug|x86
+		{1AAC5EEC-8A66-418F-B6DB-C7E2EDF14782}.Debug|x86.Build.0 = Debug|x86
+		{1AAC5EEC-8A66-418F-B6DB-C7E2EDF14782}.Release|x86.ActiveCfg = Release|x86
+		{1AAC5EEC-8A66-418F-B6DB-C7E2EDF14782}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

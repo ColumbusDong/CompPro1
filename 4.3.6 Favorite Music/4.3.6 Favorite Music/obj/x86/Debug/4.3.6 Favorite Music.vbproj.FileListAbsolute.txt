@@ -1,0 +1,11 @@
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\bin\Debug\4.3.6 Favorite Music.exe
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\bin\Debug\4.3.6 Favorite Music.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\bin\Debug\4.3.6 Favorite Music.xml
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\Favorite_Music.Music.resources
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\Favorite_Music.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\4.3.6 Favorite Music.exe
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\4.3.6 Favorite Music.xml
+C:\Users\owner\Documents\Columbus Visual Basic\4.3.6 Favorite Music\4.3.6 Favorite Music\obj\x86\Debug\4.3.6 Favorite Music.pdb

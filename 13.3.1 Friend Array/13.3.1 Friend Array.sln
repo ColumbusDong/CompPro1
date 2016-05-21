@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "13.3.1 Friend Array", "13.3.1 Friend Array\13.3.1 Friend Array.vbproj", "{448F472F-A403-45BD-8727-0DB799834FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448F472F-A403-45BD-8727-0DB799834FEC}.Debug|x86.ActiveCfg = Debug|x86
+		{448F472F-A403-45BD-8727-0DB799834FEC}.Debug|x86.Build.0 = Debug|x86
+		{448F472F-A403-45BD-8727-0DB799834FEC}.Release|x86.ActiveCfg = Release|x86
+		{448F472F-A403-45BD-8727-0DB799834FEC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\bin\Debug\Tutorial 4 Rectangle.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\bin\Debug\Tutorial 4 Rectangle.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\bin\Debug\Tutorial 4 Rectangle.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\Tutorial_4_Rectangle.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\Tutorial 4 Rectangle.exe
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\Tutorial 4 Rectangle.xml
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\Tutorial 4 Rectangle.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\Tutorial 4 Rectangle\obj\x86\Debug\Tutorial_4_Rectangle.frmTutorial_4_Rectangle.resources

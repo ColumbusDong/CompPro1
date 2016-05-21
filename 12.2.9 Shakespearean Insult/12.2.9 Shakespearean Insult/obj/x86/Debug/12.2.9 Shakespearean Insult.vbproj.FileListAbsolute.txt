@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\_12._2._9_Shakespearean_Insult.frmShakespeareanInsult.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\_12._2._9_Shakespearean_Insult.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\bin\Debug\12.2.9 Shakespearean Insult.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\_12._2._9_Shakespearean_Insult.frmShakespeareanInsult.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\_12._2._9_Shakespearean_Insult.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\12.2.9 Shakespearean Insult\12.2.9 Shakespearean Insult\obj\x86\Debug\12.2.9 Shakespearean Insult.vbproj.GenerateResource.Cache

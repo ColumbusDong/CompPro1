@@ -1,0 +1,11 @@
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\bin\Debug\CircleArea.xml
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\CircleArea.frmCircleArea.resources
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\CircleArea.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\CircleArea.exe
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\CircleArea.xml
+C:\Users\owner\AppData\Local\Temporary Projects\CircleArea\obj\x86\Debug\CircleArea.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\bin\Debug\15.2.6.exe
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\bin\Debug\15.2.6.pdb
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\bin\Debug\15.2.6.xml
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\_15._2._6.frmSpaceRunner.resources
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\_15._2._6.Resources.resources
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\15.2.6.vbproj.GenerateResource.Cache
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\15.2.6.exe
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\15.2.6.xml
+C:\Documents and Settings\1273465\Local Settings\Application Data\Temporary Projects\15.2.6\obj\Debug\15.2.6.pdb

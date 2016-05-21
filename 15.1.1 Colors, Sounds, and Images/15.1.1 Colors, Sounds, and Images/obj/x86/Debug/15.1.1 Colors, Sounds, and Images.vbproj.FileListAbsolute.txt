@@ -1,0 +1,9 @@
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\bin\Debug\15.1.1 Colors, Sounds, and Images.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\bin\Debug\15.1.1 Colors, Sounds, and Images.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\bin\Debug\15.1.1 Colors, Sounds, and Images.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\_15._1._1_Colors.frmColors.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\_15._1._1_Colors.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\15.1.1 Colors, Sounds, and Images.vbproj.GenerateResource.Cache
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\15.1.1 Colors, Sounds, and Images.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\15.1.1 Colors, Sounds, and Images.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.1 Colors, Sounds, and Images\15.1.1 Colors, Sounds, and Images\obj\x86\Debug\15.1.1 Colors, Sounds, and Images.pdb

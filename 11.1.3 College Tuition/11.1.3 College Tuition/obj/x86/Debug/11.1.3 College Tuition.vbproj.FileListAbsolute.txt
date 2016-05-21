@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\_11._1._3_College_Tuition.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\_11._1._3_College_Tuition.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\bin\Debug\11.1.3 College Tuition.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\_11._1._3_College_Tuition.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\_11._1._3_College_Tuition.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\11.1.3 College Tuition\11.1.3 College Tuition\obj\x86\Debug\11.1.3 College Tuition.vbproj.GenerateResource.Cache

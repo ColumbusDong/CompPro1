@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\_15._2._3_Animation_and_Timers.frmAnimation.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\_15._2._3_Animation_and_Timers.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\bin\Debug\15.2.3 Animation and Timers.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\_15._2._3_Animation_and_Timers.frmAnimation.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\_15._2._3_Animation_and_Timers.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\15.2.3 Animation and Timers\15.2.3 Animation and Timers\obj\x86\Debug\15.2.3 Animation and Timers.vbproj.GenerateResource.Cache

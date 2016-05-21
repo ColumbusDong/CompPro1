@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\bin\Debug\11.2.3 WWII Fact Assignment.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\bin\Debug\11.2.3 WWII Fact Assignment.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\bin\Debug\11.2.3 WWII Fact Assignment.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\_11._2._3_WWII_Fact_Assignment.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\_11._2._3_WWII_Fact_Assignment.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.exe
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.xml
+C:\Users\owner\AppData\Local\Temporary Projects\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\11.2.3 WWII Fact Assignment\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.exe
+C:\Users\owner\Documents\Columbus Visual Basic\11.2.3 WWII Fact Assignment\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.xml
+C:\Users\owner\Documents\Columbus Visual Basic\11.2.3 WWII Fact Assignment\11.2.3 WWII Fact Assignment\obj\x86\Debug\11.2.3 WWII Fact Assignment.pdb

@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\_13._3._3_Roll_of_the_Dice.frmDiceRolls.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\_13._3._3_Roll_of_the_Dice.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.exe
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.xml
+C:\Users\owner\AppData\Local\Temporary Projects\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.exe
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.xml
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.exe
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\bin\Debug\13.3.3 Roll of the Dice.xml
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\_13._3._3_Roll_of_the_Dice.frmDiceRolls.resources
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\_13._3._3_Roll_of_the_Dice.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\13.3.3 Roll of the Dice\13.3.3 Roll of the Dice\obj\x86\Debug\13.3.3 Roll of the Dice.vbproj.GenerateResource.Cache

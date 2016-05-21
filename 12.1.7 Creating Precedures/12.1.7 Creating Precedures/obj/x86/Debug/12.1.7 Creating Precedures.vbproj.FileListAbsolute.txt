@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\bin\Debug\12.1.7 Creating Precedures.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\bin\Debug\12.1.7 Creating Precedures.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\bin\Debug\12.1.7 Creating Precedures.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\_12._1._7_Creating_Precedures.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\_12._1._7_Creating_Precedures.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.exe
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.xml
+C:\Users\owner\AppData\Local\Temporary Projects\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\12.1.7 Creating Precedures\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.exe
+C:\Users\owner\Documents\Columbus Visual Basic\12.1.7 Creating Precedures\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.xml
+C:\Users\owner\Documents\Columbus Visual Basic\12.1.7 Creating Precedures\12.1.7 Creating Precedures\obj\x86\Debug\12.1.7 Creating Precedures.pdb

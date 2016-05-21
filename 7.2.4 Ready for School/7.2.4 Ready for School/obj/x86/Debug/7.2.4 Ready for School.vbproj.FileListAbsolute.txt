@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\_7._2._4_Ready_for_School.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\_7._2._4_Ready_for_School.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.exe
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.xml
+C:\Users\owner\AppData\Local\Temporary Projects\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.exe
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.xml
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.exe
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\bin\Debug\7.2.4 Ready for School.xml
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\_7._2._4_Ready_for_School.Form1.resources
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\_7._2._4_Ready_for_School.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\7.2.4 Ready for School\7.2.4 Ready for School\obj\x86\Debug\7.2.4 Ready for School.vbproj.GenerateResource.Cache

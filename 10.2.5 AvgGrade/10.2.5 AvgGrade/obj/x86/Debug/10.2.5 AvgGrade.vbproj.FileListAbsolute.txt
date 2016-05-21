@@ -1,0 +1,18 @@
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.exe
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.xml
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\_10._2._5_AvgGrade.frmAverageGrades.resources
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\_10._2._5_AvgGrade.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.exe
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.xml
+C:\Users\owner\AppData\Local\Temporary Projects\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.exe
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.xml
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.exe
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\bin\Debug\10.2.5 AvgGrade.xml
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\_10._2._5_AvgGrade.frmAverageGrades.resources
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\_10._2._5_AvgGrade.Resources.resources
+C:\Users\owner\Documents\Columbus Visual Basic\10.2.5 AvgGrade\10.2.5 AvgGrade\obj\x86\Debug\10.2.5 AvgGrade.vbproj.GenerateResource.Cache

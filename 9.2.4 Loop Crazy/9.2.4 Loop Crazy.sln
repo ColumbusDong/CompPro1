@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "9.2.4 Loop Crazy", "9.2.4 Loop Crazy\9.2.4 Loop Crazy.vbproj", "{870046A7-B255-497A-B27F-EBF650222ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870046A7-B255-497A-B27F-EBF650222ECF}.Debug|x86.ActiveCfg = Debug|x86
+		{870046A7-B255-497A-B27F-EBF650222ECF}.Debug|x86.Build.0 = Debug|x86
+		{870046A7-B255-497A-B27F-EBF650222ECF}.Release|x86.ActiveCfg = Release|x86
+		{870046A7-B255-497A-B27F-EBF650222ECF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

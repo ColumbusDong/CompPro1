@@ -1,0 +1,9 @@
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\bin\Debug\8.1.4 Checkboxes.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\bin\Debug\8.1.4 Checkboxes.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\bin\Debug\8.1.4 Checkboxes.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\_8._1._4_Checkboxes.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\_8._1._4_Checkboxes.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\8.1.4 Checkboxes.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\8.1.4 Checkboxes.exe
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\8.1.4 Checkboxes.xml
+C:\Users\owner\AppData\Local\Temporary Projects\8.1.4 Checkboxes\obj\x86\Debug\8.1.4 Checkboxes.pdb

@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\bin\Debug\15.1.6 Traffic Light.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\bin\Debug\15.1.6 Traffic Light.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\bin\Debug\15.1.6 Traffic Light.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\_15._1._6_Traffic_Light.frmTrafficLight.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\_15._1._6_Traffic_Light.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.exe
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.xml
+C:\Users\owner\AppData\Local\Temporary Projects\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.6 Traffic Light\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.exe
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.6 Traffic Light\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.xml
+C:\Users\owner\Documents\Columbus Visual Basic\15.1.6 Traffic Light\15.1.6 Traffic Light\obj\x86\Debug\15.1.6 Traffic Light.pdb

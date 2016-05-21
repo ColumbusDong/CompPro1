@@ -1,0 +1,12 @@
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\bin\Debug\9.2.4 Loop Crazy.exe
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\bin\Debug\9.2.4 Loop Crazy.pdb
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\bin\Debug\9.2.4 Loop Crazy.xml
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\_9._2._4_Loop_Crazy.Form1.resources
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\_9._2._4_Loop_Crazy.Resources.resources
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.vbproj.GenerateResource.Cache
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.exe
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.xml
+C:\Users\owner\AppData\Local\Temporary Projects\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.pdb
+C:\Users\owner\Documents\Columbus Visual Basic\9.2.4 Loop Crazy\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.exe
+C:\Users\owner\Documents\Columbus Visual Basic\9.2.4 Loop Crazy\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.xml
+C:\Users\owner\Documents\Columbus Visual Basic\9.2.4 Loop Crazy\9.2.4 Loop Crazy\obj\x86\Debug\9.2.4 Loop Crazy.pdb
